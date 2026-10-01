@@ -3,6 +3,7 @@
 // @namespace    local.hatarako.hide
 // @version      1.0.0
 // @description  指定語句を含む求人を非表示にする（語句は後から追加・削除可能）
+// @license      Copyright thirge
 // @match        https://www.hatarako.net/*
 // @exclude      https://www.hatarako.net/job/*
 // @grant        GM_getValue
